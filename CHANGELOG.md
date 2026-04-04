@@ -1,3 +1,6 @@
+# 1.2.1
+* Add support for ingressClassName per mapping
+
 # 1.2.0
 * Add support for default service labels and annotations
 
