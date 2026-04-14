@@ -1,3 +1,6 @@
+# 1.2.2
+* Remove default kubernetes.io/ingress.class annotation to avoid conflict with ingressClassName
+
 # 1.2.1
 * Add support for ingressClassName per mapping
 
