@@ -1,3 +1,6 @@
+# 1.2.3
+* Preserve multiline annotations
+
 # 1.2.2
 * Remove default kubernetes.io/ingress.class annotation to avoid conflict with ingressClassName
 
