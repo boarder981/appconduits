@@ -1,3 +1,7 @@
+# 1.2.4
+* Detect multiline ingress annotations
+* Quote regular annotations
+
 # 1.2.3
 * Preserve multiline annotations
 
